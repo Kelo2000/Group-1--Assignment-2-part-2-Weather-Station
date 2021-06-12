@@ -12,7 +12,7 @@ Install the following libraries for this code to run:
 
 Libraries for the M5 Stack Atom:
 
-    *M5Atom library 
+  *M5Atom library 
     
    
  Libraries for the WebServer:
