@@ -11,16 +11,22 @@ Group 1 - Assignment 2 Part 2 -
 Install the following libraries for this code to run:
 
 Libraries for the M5 Stack Atom:
-    -M5Atom library 
+
+    *M5Atom library 
     
- 
+   
  Libraries for the WebServer:
-    -WiFi
-    -WiFiClient library
-    -WiFiA 
+    *WiFi
+    
+    *WiFiClient library
+    
+    *WiFiA 
+    
     
  Libraries for the Temperature and Humidity sensor: 
-   - HDC2080
+ 
+   *HDC2080
+   
 
 To install each library, Open Arduino IDE, then Sketch>Include Library>Manage Libraries>Search a library name>Click Install
 
