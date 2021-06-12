@@ -10,20 +10,21 @@ Group 1 - Assignment 2 Part 2 -
 # Getting Started: 
 Install the following libraries for this code to run:
 
-Libraries for the M5 Stack Atom:
+1. Libraries for the M5 Stack Atom:
 
-  *M5Atom library 
+  -M5Atom library 
     
    
- Libraries for the WebServer:
-    *WiFi
+ 2. Libraries for the WebServer:
     
-    *WiFiClient library
+    .WiFi
     
-    *WiFiA 
+    WiFiClient library
+    
+    WiFiA 
     
     
- Libraries for the Temperature and Humidity sensor: 
+ 3. Libraries for the Temperature and Humidity sensor: 
  
    *HDC2080
    
