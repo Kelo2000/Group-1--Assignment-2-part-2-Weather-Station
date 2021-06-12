@@ -1,6 +1,5 @@
 # Indoor and Personal Weather station.
 
-# Temperature Sensor
 Group 1 - Assignment 2 
 , Part 2 -  
 
